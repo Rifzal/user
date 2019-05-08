@@ -1,8 +1,8 @@
 <?php
 $stat_sseth=true;
-$msgsseth= "[■] Loading Bentar Gan!!!";
+$msgsseth= "[》》] Loading Bentar Gan!!!";
 $stat_cp = true;
-$msgcp = "[■] Loading Bentar Gan!!!";
+$msgcp = "[》》] Loading Bentar Gan!!!";
 $figlet= $ijo."
 ───────────────────────────────────────────
 ── ▄▀ ▄▀▄ █▀▄ ▀ █▄─█ ▄▀▀ ".$ijo." [`  ||    _    _.       
